@@ -14,6 +14,15 @@
 - Twitter: [@romina_pati](https://twitter.com/@romina_pati)
 - LinkedIn: [Romina Patiño](www.linkedin.com/in/romina-patino/)
 
+## 👤 **Yilikal Teshome**
+
+- GitHub: [@Yilikal250](https://github.com/githubhandle)
+
+- Twitter: [@@TeshomeYilikal](https://twitter.com/twitterhandle)
+
+- LinkedIn: [teshomeyilikal250@gmail.com](https://linkedin.com/in/linkedinhandle)
+
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
